@@ -22,7 +22,7 @@ Je suis actuellement étudiant en Master, spécialisé en architecture logiciell
 
 
 ### 📊 My stats
-![Bilal's GitHub stats][(https://github-readme-stats-sigma-five.vercel.app/api?username=FoulekSH&show_icons=true&theme=prussian)]
+![Bilal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FoulekSH&show_icons=true&theme=prussian)
 
 
 <!-- Compétences -->
@@ -40,4 +40,4 @@ Je suis constamment en quête d'apprentissage et de défis. Mes objectifs futurs
 
 <!-- Contact -->
 ## Contact
-- **LinkedIn:** [Votre nom sur LinkedIn](https://www.linkedin.com/in/bilal-saadaoui/)
+- **LinkedIn:** [Bilal Saadaoui](https://www.linkedin.com/in/bilal-saadaoui/)
