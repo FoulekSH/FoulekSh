@@ -15,7 +15,7 @@ Je suis actuellement étudiant en Master, spécialisé en architecture logiciell
 
 ![React](https://img.shields.io/badge/-React-101010?style=for-the-badge&logo=React&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-101010?style=for-the-badge&logo=Angular&logoColor=white)
-![Net Core](https://img.shields.io/badge/-Angular-101010?style=for-the-badge&logo=Dotnet&logoColor=white)
+![Net Core](https://img.shields.io/badge/-NetCore-101010?style=for-the-badge&logo=Dotnet&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=git&logoColor=white)
