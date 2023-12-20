@@ -7,7 +7,7 @@ Je suis actuellement étudiant en Master, spécialisé en architecture logiciell
 
 <!-- Bannière -->
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/671407160319541258/1187107332396679340/Picsart_23-11-15_11-48-37-133.jpg?ex=6595aedb&is=658339db&hm=9a9035a130421312caeea69220b21b459214eab2c31f056ce745c6acb4da4703&=&format=webp&width=905&height=905" alt="Nom de l'image">
+  <img src="" alt="">
 </p>
 
 ### 🧰 Tech stack
