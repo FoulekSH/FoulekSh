@@ -1,4 +1,4 @@
-![image](https://github.com/FoulekSH/FoulekSh/assets/68197485/89287051-5129-4732-b977-69a79f8068b5)<!-- Titre -->
+<!-- Titre -->
 <h1 align="center">Bienvenue sur mon profil GitHub ! 👋</h1>
 
 <!-- À propos de moi -->
