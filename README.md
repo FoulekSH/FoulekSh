@@ -5,10 +5,11 @@
 ## À propos de moi
 Je suis actuellement étudiant en Master, spécialisé en architecture logicielle, et passionné par le développement d'applications. Mon objectif est de concevoir des solutions logicielles innovantes et robustes pour résoudre des problèmes complexes.
 
-<!-- Bannière -->
+<!-- Bannière 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/671407160319541258/1187107332396679340/Picsart_23-11-15_11-48-37-133.jpg?ex=6595aedb&is=658339db&hm=9a9035a130421312caeea69220b21b459214eab2c31f056ce745c6acb4da4703&=&format=webp&width=100&height=10" alt="Nom de l'image" />
 </p>
+-->
 
 ### 🧰 Tech stack
 
