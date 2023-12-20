@@ -42,4 +42,4 @@ Je suis constamment en quête d'apprentissage et de défis. Mes objectifs futurs
 
 <!-- Contact -->
 ## Contact
-- **LinkedIn:** [Bilal Saadaoui](https://www.linkedin.com/in/bilal-saadaoui/)
+- <a href="https://www.linkedin.com/in/bilal-saadaoui/">![LinkedIn](https://img.shields.io/badge/-Mon LinkedIn-101010?style=for-the-badge&logo=linkedIn&logoColor=white)</a>
